@@ -1,5 +1,5 @@
-# NewWorkflow
-create a new file 
+# NewWorkflow2
+create a new file updated
 package com.libraries;
 
 import org.openqa.selenium.WebDriver;
@@ -12,7 +12,7 @@ import org.testng.annotations.BeforeMethod;
 import com.libraries.GlobalSelenium.Browser;
 
 public class Base {
-	public WebDriver driver;
+	public WebDriver2 driver;
 	public GlobalSelenium myLibraryGS = new GlobalSelenium();
 
 	@BeforeClass
